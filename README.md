@@ -17,4 +17,4 @@ Tools: SQL (DuckDB, BigQuery, PostgreSQL), Python (pandas), R (tidyverse, caret)
 
 Certificates: Google Data Analytics, Business Intelligence and AI; Kaggle Python and Intro to ML. BGS, Black Hills State University.
 
-[Resume](https://github.com/edeaver06/Data_Analytics_Portfolio/raw/main/resume/evan-deaver-resume-public.pdf) · edeaver06@gmail.com · [LinkedIn](https://www.linkedin.com/in/evan-deaver-276152a5/) · [Tableau Public](https://public.tableau.com/app/profile/evan.deaver/vizzes) · [Kaggle](https://www.kaggle.com/evandeaver)
+[Resume](https://github.com/edeaver06/Data_Analytics_Portfolio/raw/main/resume/evan-deaver-resume-public.pdf) · edeaver06@gmail.com · [LinkedIn](https://www.linkedin.com/in/evan-d-276152a5/) · [Tableau Public](https://public.tableau.com/app/profile/evan.deaver/vizzes) · [Kaggle](https://www.kaggle.com/evandeaver)
