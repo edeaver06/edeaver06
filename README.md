@@ -1,6 +1,6 @@
 # Evan Deaver
 
-Data analyst, United States. I'm moving into data analyst and data engineer roles after 20+ years running my own e-commerce business. I have Google certificates in Data Analytics, Business Intelligence and AI, and I do data QA on AI model outputs at Outlier.ai. Most of my portfolio is SQL pipelines with automated tests, plus Tableau dashboards and Streamlit apps you can open in a browser.
+Data analyst, United States. I'm moving into data analyst and data engineer roles after years running my own e-commerce business. I have the Google Data Analytics and Google Business Intelligence certificates. I do data QA on AI model outputs at Outlier.ai. Most of my portfolio is SQL pipelines with automated tests, plus Tableau dashboards and Streamlit apps you can open in a browser.
 
 [Data Analytics Portfolio](https://github.com/edeaver06/Data_Analytics_Portfolio)
 
