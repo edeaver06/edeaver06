@@ -16,7 +16,7 @@ Data analyst in the United States. After years running my own e-commerce busines
 | [Rural Hospital Financial Warning Signs](https://github.com/edeaver06/Data_Analytics_Portfolio/tree/main/projects/rural-hospital-warning-signs) | 6.6% of 485 hospitals in SD, ND, MN, NE, MT, WY and IA show 4 or more of 6 financial warning signs (CMS FY2023). Wyoming stands out: 46% of its hospitals lost money overall. Python, SQLite and a Google Sheets dashboard |
 | [Diabetes Care Gaps](https://github.com/edeaver06/Data_Analytics_Portfolio/tree/main/projects/diabetes-care-gaps) | Synthetic data (Synthea, no real patients): of 779 adults with diabetes, 5 of 7 HEDIS-style measures missed their target. R and SQL, with 770 KPI rows cross-checked in SQL and 0 mismatches |
 
-Tools: SQL (DuckDB, Google BigQuery, SQLite), Python (pandas), R (tidyverse, ggplot2, testthat), dbt, Excel (pivot tables, formulas), Tableau, Google Sheets, Streamlit
+Tools: SQL (DuckDB, Google BigQuery, SQLite), Python (pandas), R (tidyverse, ggplot2, testthat), dbt, Microsoft Excel (pivot tables, formulas), Tableau, Google Sheets (XLOOKUP, QUERY), Streamlit
 
 Certificates: Google Data Analytics, Google Business Intelligence and Google AI. BGS, Black Hills State University.
 
